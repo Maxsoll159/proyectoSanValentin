@@ -111,7 +111,7 @@ function App() {
                 disabled={imagenCargada} // Deshabilita el botón si la imagen no se ha cargado
               >
                 {Object.keys(randomValor).length === 0 ? "No" : randomValor.description}
-                <span hidden>{document.title = randomValor.description}</span>
+                <span hidden>{document.title = Object.keys(randomValor).length === 0 ? "¿Quieres ser mi San Valentin?" : randomValor.description}</span>
               </button>
             </div>
           </div>
