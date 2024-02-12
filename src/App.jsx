@@ -25,17 +25,17 @@ function App() {
     ,
   {
     id: 2,
-    description: "Vamos, atrévete a decir que sí.",
+    description: "el mejor san valentin.",
     img: "https://www.gifmaniacos.es/wp-content/uploads/2019/05/gatitos-kawaii-gifmaniacos.es-19.gif"
   },
   {
     id: 3,
-    description: "No tengas miedo, será genial.",
+    description: "tu puedes ser mi san y yo tu valentin.",
     img: "https://i.pinimg.com/originals/e1/c3/88/e1c388133e0f998e25bb17c837b74a14.gif"
   },
   {
     id: 4,
-    description: "Confía en mí, será divertido.",
+    description: "se que tarde mucho pero un si no esta mal.",
     img: "https://media.tenor.com/Bn88VELdNI8AAAAi/peach-goma.gif"
   },
   {
@@ -50,7 +50,7 @@ function App() {
   },
   {
     id: 7,
-    description: "No dejes que el miedo te detenga.",
+    description: "te dare mucho amor.",
     img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
   },
   {
