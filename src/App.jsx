@@ -14,8 +14,8 @@ function App() {
 
   let random = [{
     id: 1,
-    description: "Di si por favor",
-    img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
+    description: "mandame a la mrd ",
+    img: "https://www.reddit.com/r/reactiongifs/comments/5rwokd/mrw_she_walk_out_the_bathroom_nekkid/?rdt=53038"
   },
   {
     id: 1,
